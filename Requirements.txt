@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-yfinance
-plotly
-prophet
-cmdstanpy
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.6
+yfinance==0.2.65
+plotly==6.1.2
+prophet==1.1.7
+cmdstanpy==1.2.5y
